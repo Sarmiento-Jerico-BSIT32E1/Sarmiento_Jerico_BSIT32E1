@@ -1,0 +1,14 @@
+D:\Downloads\New folder (12)\AREA_TRIANGLE_CALCU\AREA_TRIANGLE_CALCU\bin\Debug\net6.0\AREA_TRIANGLE_CALCU.exe
+D:\Downloads\New folder (12)\AREA_TRIANGLE_CALCU\AREA_TRIANGLE_CALCU\bin\Debug\net6.0\AREA_TRIANGLE_CALCU.deps.json
+D:\Downloads\New folder (12)\AREA_TRIANGLE_CALCU\AREA_TRIANGLE_CALCU\bin\Debug\net6.0\AREA_TRIANGLE_CALCU.runtimeconfig.json
+D:\Downloads\New folder (12)\AREA_TRIANGLE_CALCU\AREA_TRIANGLE_CALCU\bin\Debug\net6.0\AREA_TRIANGLE_CALCU.dll
+D:\Downloads\New folder (12)\AREA_TRIANGLE_CALCU\AREA_TRIANGLE_CALCU\bin\Debug\net6.0\AREA_TRIANGLE_CALCU.pdb
+D:\Downloads\New folder (12)\AREA_TRIANGLE_CALCU\AREA_TRIANGLE_CALCU\obj\Debug\net6.0\AREA_TRIANGLE_CALCU.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\New folder (12)\AREA_TRIANGLE_CALCU\AREA_TRIANGLE_CALCU\obj\Debug\net6.0\AREA_TRIANGLE_CALCU.AssemblyInfoInputs.cache
+D:\Downloads\New folder (12)\AREA_TRIANGLE_CALCU\AREA_TRIANGLE_CALCU\obj\Debug\net6.0\AREA_TRIANGLE_CALCU.AssemblyInfo.cs
+D:\Downloads\New folder (12)\AREA_TRIANGLE_CALCU\AREA_TRIANGLE_CALCU\obj\Debug\net6.0\AREA_TRIANGLE_CALCU.csproj.CoreCompileInputs.cache
+D:\Downloads\New folder (12)\AREA_TRIANGLE_CALCU\AREA_TRIANGLE_CALCU\obj\Debug\net6.0\AREA_TRIANGLE_CALCU.dll
+D:\Downloads\New folder (12)\AREA_TRIANGLE_CALCU\AREA_TRIANGLE_CALCU\obj\Debug\net6.0\refint\AREA_TRIANGLE_CALCU.dll
+D:\Downloads\New folder (12)\AREA_TRIANGLE_CALCU\AREA_TRIANGLE_CALCU\obj\Debug\net6.0\AREA_TRIANGLE_CALCU.pdb
+D:\Downloads\New folder (12)\AREA_TRIANGLE_CALCU\AREA_TRIANGLE_CALCU\obj\Debug\net6.0\AREA_TRIANGLE_CALCU.genruntimeconfig.cache
+D:\Downloads\New folder (12)\AREA_TRIANGLE_CALCU\AREA_TRIANGLE_CALCU\obj\Debug\net6.0\ref\AREA_TRIANGLE_CALCU.dll
